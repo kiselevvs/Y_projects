@@ -1,2 +1,2 @@
 # Y_projects
-Some project created while i'm studiying at Ypractucum 
+Some of projects created while i'm studiying at Ypractucum 
